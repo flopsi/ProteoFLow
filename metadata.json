@@ -1,0 +1,5 @@
+{
+  "name": "ProteoFlow LFQ",
+  "description": "LFQ-Bench analysis tool for 3-proteome mixed datasets (Human, Yeast, E. coli). Visualize ratio accuracy and precision with AI-assisted quality control.",
+  "requestFramePermissions": []
+}
