@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Proteomics Benchmark Framework with Triqler Integration
 
